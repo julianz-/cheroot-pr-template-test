@@ -57,8 +57,8 @@ entertain early in the review process. Thank you in advance!
 * [ ] Project documentation (in `docs/`) and inline docstrings reflect the changes
 * [ ] My commits each have a descriptive title and a body explaining the why
       (see [guide][good commit messages])
-* [ ] Did you add an entry into the [changelog][changelog-fragments]
-      to announce your change?
+* [ ] I have added a [changelog][changelog-fragments] entry
+      (can be done once the PR number is known)
 * [ ] I'm planning to [squash related commits together][related squash]
       before final merge
 * [ ] I have read the [contribution guide][CONTRIBUTING] and the
